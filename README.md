@@ -12,17 +12,17 @@ Setiap soal memiliki folder masing-masing di [`python/`](python/) atau [`php/`](
 
 | Soal | Topik | Bobot Nilai |
 |:----:|-------|:-----------:|
-| 1 | Maximum penjumlahan triplets | **25** |
-| 2 | Penjumlahan dua bilangan terkecil | **15** |
-| 3 | Ular Tangga Pattern | **40** |
-| 4 | Maskify (String masking) | **20** |
-| | **Total** | **100** |
+| 1 | Maximum penjumlahan triplets | **15** |
+| 2 | Penjumlahan dua bilangan terkecil | **9** |
+| 3 | Ular Tangga Pattern | **24** |
+| 4 | Maskify (String masking) | **12** |
+| | **Total** | **60** |
 
 Bobot nilai ditentukan berdasarkan tingkat kesulitan setiap soal:
-- **Soal 3 (40)** — tersulit, membutuhkan logika perulangan bersarang dengan pola arah bolak-balik dari bawah ke atas.
-- **Soal 1 (25)** — menengah, membutuhkan deduplikasi data dan seleksi tiga nilai terbesar.
-- **Soal 4 (20)** — mudah, manipulasi string dasar.
-- **Soal 2 (15)** — termudah, cukup sorting dan penjumlahan dua elemen pertama.
+- **Soal 1 (15)** — menengah, membutuhkan deduplikasi data dan seleksi tiga nilai terbesar.
+- **Soal 2 (9)** — termudah, cukup sorting dan penjumlahan dua elemen pertama.
+- **Soal 3 (24)** — tersulit, membutuhkan logika perulangan bersarang dengan pola arah bolak-balik dari bawah ke atas.
+- **Soal 4 (12)** — mudah, manipulasi string dasar.
 
 ---
 
