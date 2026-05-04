@@ -20,7 +20,7 @@ Setiap soal memiliki folder masing-masing di [`python/`](python/) atau [`php/`](
 
 Bobot nilai ditentukan berdasarkan tingkat kesulitan setiap soal:
 - **Soal 1 (15)** — menengah, membutuhkan deduplikasi data dan seleksi tiga nilai terbesar.
-- **Soal 2 (9)** — termudah, cukup sorting dan penjumlahan dua elemen pertama.
+- **Soal 2 (9)** — termudah.
 - **Soal 3 (24)** — tersulit, membutuhkan logika perulangan bersarang dengan pola arah bolak-balik dari bawah ke atas.
 - **Soal 4 (12)** — mudah, manipulasi string dasar.
 
