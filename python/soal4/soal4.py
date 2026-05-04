@@ -1,0 +1,3 @@
+def maskify(s):
+    
+    return '#'

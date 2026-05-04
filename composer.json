@@ -1,0 +1,16 @@
+{
+    "name": "rsud-pamekasan/soal-programming",
+    "description": "Soal pemrograman logika dan struktur data - RSUD Pamekasan",
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Soal1\\BubbleSort\\": "php/soal1_bubble_sort/",
+            "Soal2\\Palindrome\\": "php/soal2_palindrome/",
+            "Soal3\\Fibonacci\\": "php/soal3_fibonacci/",
+            "Soal4\\BST\\": "php/soal4_bst/",
+            "Soal5\\StackMin\\": "php/soal5_stack_min/"
+        }
+    }
+}
